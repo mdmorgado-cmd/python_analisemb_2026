@@ -1,2 +1,2 @@
-print ("Ola, mundo ex31!!   !")
+print ("Ola, mundo ex31!!")
    
