@@ -1,2 +1,1 @@
-print ("Ola, munddddo!!!")
-print ("Ola, muddndo!!!")
+print ("Ola, mundo!!!")
