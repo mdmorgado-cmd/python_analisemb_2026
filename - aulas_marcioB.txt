@@ -794,4 +794,12 @@ git commit -m  "ex21.py"
 
 git push -u origin main
 
+git pull origin main --rebase
+git push origin main
+git push -f origin main
+
+PRimeiro igualar os repositórios pois ele ira sempre atualizar os arquivos no GitHub e não no vscode
+
+git clone <URL_DO_REPOSITÓRIO>
+
 ################################################
