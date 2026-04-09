@@ -1,4 +1,4 @@
-v=int(input("Digite um valor"))
+valor=int(input("Digite um valor"))
 for i in range(0,11):
-    x=i*v   
-    print(f"{v} * {i} = {x}") 
+    
+    print(f"{valor} * {i} = {valor * i}") 
