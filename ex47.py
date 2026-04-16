@@ -11,7 +11,7 @@ def div(a, b):
         print("valor invalido")
 
 escolha = ""
-while escolha != "0" and escolha > "5":
+while escolha != "0":
     escolha = input("digite uma opção 1-somar, 2-subtração, 3-multiplicação, 4-dividir ")
     num1 = int(input(" digite o primeiro numero "))
     num2 = int(input(" digite o segundo numero "))
@@ -26,7 +26,6 @@ while escolha != "0" and escolha > "5":
 
     print(f"O resultado da operação é {x}")
 
-elif:
+else:
     print("Operação Terminada") 
 
-else:
