@@ -5,3 +5,7 @@ while nota >= 0 and nota <= 10:
     except ValueError:
         print ("Entrada Valida. Por favor digite um numero")
 print(f"Nota Invalida registrada: {nota}")
+
+
+
+
