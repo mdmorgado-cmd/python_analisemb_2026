@@ -19,7 +19,7 @@ while escolha != 0:
         escolha = int(input("Digite uma opção: "))
         
         if escolha == 0:
-            print("Saindo...")
+            print("Operação Terminada")
             break
         elif escolha in [1, 2, 3, 4]:
             num1 = int(input("Digite o primeiro número: "))
