@@ -765,12 +765,13 @@ git commit -m "primeiro commit"  - prepara os arq. para o git
 git status -> verifica o status do commit
 git log (histórico dos commits) - histórico do commit
 
+############### indentação de código --- é o alinhamento do código para não causar erros
 
 
 criar uma conta no git hub
 criar um repositório no git hub
-git config --global user.name "provasetrr-gif"
-git config --global user.email "seu.email@exemplo.com"
+git config --global user.name "mdmorgado-cmd"
+git config --global user.email "mdmorgado@gmail.com"
 git branch -M main
 git remote add origin "endereço do git"
 git push -u origin main
@@ -803,3 +804,20 @@ PRimeiro igualar os repositórios pois ele ira sempre atualizar os arquivos no G
 git clone <URL_DO_REPOSITÓRIO>
 
 ################################################
+
+para o python ler um arquivo de dados ele precisa de um software chamado "pandas"
+
+https://pandas.pydata.org/
+
+#######################################################
+https://sqliteonline.com/
+
+
+#############################################
+
+################################################
+
+por que dicinarios?
+lista = {2,3,5,6}
+tupla = (2,3,5,6)t
+dict = {chaves:valor,....}|
