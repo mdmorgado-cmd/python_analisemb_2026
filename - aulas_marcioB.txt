@@ -725,6 +725,8 @@ endereço do repositório
 
 https://github.com/mdmorgado-cmd/python_analisemb_2026.git
 https://github.com/mdmorgado-cmd/python_analisemb_2026
+
+https://github.com/mdmorgado-cmd/python_analisemb_2026
 ###########################################################
 
 …or create a new repository on the command line
@@ -821,3 +823,12 @@ por que dicinarios?
 lista = {2,3,5,6}
 tupla = (2,3,5,6)t
 dict = {chaves:valor,....}|
+
+
+
+####################################################
+
+laboratório do google
+
+https://colab.research.google.com/?pli=1#scrollTo=yL-RqVbiBZUD
+
